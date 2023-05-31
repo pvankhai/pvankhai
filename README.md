@@ -44,14 +44,14 @@
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=androidstudio&logoColor=#DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;
 <br>
-<h2 align="center">👨‍💻 Technologies and Tools 🛠</h2>
+<h2 align="center">📈👨‍💻 Quick Stats</h2>
 <br>
 <div align="center" >
 <a  href="https://github.com/pvankhai">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="svg/3-stats.svg" width="32.5%">
+<img src="svg/1-repos-per-language.svg" width="32.5%">
+<img src="svg/2-most-commit-language.svg" width="32.5%">
 
 </a>
 <details>
